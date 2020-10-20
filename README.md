@@ -21,6 +21,12 @@ python "Démineur.py"
 - Clique gauche : Réveler une case
 - Clique droit : Poser/Enlever un drapeau un drapeau
 
+### Captures
+
+![Start](Captures/capture1.png)
+![Game](Captures/capture2.png)
+![End](Captures/capture3.png)
+
 ### Lien utiles
 
 - Installer [Python](https://www.python.org/downloads/)
